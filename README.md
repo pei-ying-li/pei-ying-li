@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pei-ying-li
+- 👋 Hi, I’m @pei-ying-li, you can also call me Chloe
 - 👀 I’m interested in algorithms, operation research, etc
 - 🌱 I’m currently a senior in Information Management, NTU
 - 👩‍💻 I'd like to be a software engineer
