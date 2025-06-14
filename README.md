@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pei-ying-li, you can also call me Chloe
 - 👀 I’m interested in software engineering application
-- 🌱 I’m currently a fist year of master's student in Computer Science, UCLA
+- 🌱 I’m currently a second year of master's student in Computer Science, UCLA
 - 📫 How to reach me peiyinglichloe@gmail.com
 
 <!---
